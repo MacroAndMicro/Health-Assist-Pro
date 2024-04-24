@@ -1,16 +1,34 @@
-# Personalized-Medical-Recommendation-System-with-Machine-Learning
-Welcome to our cutting-edge Personalized Medical Recommendation System, a powerful platform designed to assist users in understanding and managing their health. Leveraging the capabilities of machine learning, our system analyzes user-input symptoms to predict potential diseases accurately. Here's what sets our system apart:
+ # Health Assist Pro
+## Summary 
+We have made a health assistant, in which when the symptoms of the ailment are put, it gives the disease, medications, precautions, description, workouts, and doctor's reviews and their rating.
+This is the development of the project as of now.  However, I intend to integrate the multiple language support and search by picture and video options as a part of future work. I also intend to integrate it on  a production-grade, user-friendly web app.
 
-User-Friendly Interface: Our intuitive interface allows users to input their symptoms effortlessly, creating a seamless user experience.
+## Tech Stack Used
+Flask
+Machine Learning 
 
-Advanced Machine Learning Models: We've integrated state-of-the-art machine learning models that accurately predict diseases based on input symptoms, ensuring reliable and precise results.
+## Tech Stack to be used as per future plan
+MongoDB
+Django
+Machine learning
+Deep Learning
+Natural Language Processing
 
-Tailored Recommendations: Receive personalized recommendations for the top 5 medicines, prescription details, and even workout routines based on the predicted disease.
+## Here are some key insights into the project
 
-Flask App Integration: The entire system is powered by a Flask web application, making it easily accessible to users. Experience the convenience of accessing healthcare recommendations from anywhere.
+The Frontpage
+![image](https://github.com/MacroAndMicro/Health-Assist-Pro/assets/98226354/a4ff76bf-9c51-4b02-8b20-85053712302b)
 
-Privacy and Security: We prioritize user privacy and data security. Your health information is handled with the utmost confidentiality, adhering to the highest industry standards.
+various predictions :
+![image](https://github.com/MacroAndMicro/Health-Assist-Pro/assets/98226354/38e98427-7595-4ba9-87c2-675768149b65)
 
-Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
+![image](https://github.com/MacroAndMicro/Health-Assist-Pro/assets/98226354/ff478ffe-edf6-445f-8f22-770f614c4e8c)
 
-Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
+![image](https://github.com/MacroAndMicro/Health-Assist-Pro/assets/98226354/507078cb-8e34-4b1e-8c51-00293ffda2a2)
+
+
+
+
+
+
+
